@@ -1,0 +1,9 @@
+node_modules/
+.env
+device.jpg
+original.png
+product.css
+product.html
+product.jpg
+view.html
+view.css
